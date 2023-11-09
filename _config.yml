@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nanda Kishor Panda"
 title_separator          : "-"
 name                     : &name "Nanda Kishor Panda"
-description              : &description "Doctoral researcher at [TU Delft](www.tudelft.nl) "
+description              : &description "Doctoral researcher at [TU Delft](www.tudelft.nl)"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Doctoral researcher at [TU Delft](www.tudelft.nl)"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
